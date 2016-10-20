@@ -1,0 +1,8 @@
+name: inspec-workshop
+title: CIS CentOS
+maintainer: Luke Stannard
+copyright: Luke Stannard
+copyright_email: l.stannard@derby.ac.uk
+license: All Rights Reserved
+summary: An InSpec Compliance Profile
+version: 0.1.0
